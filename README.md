@@ -2,7 +2,7 @@
  
 
 This app is built on Spring 4.x and tested on Tomcat 7. ALl the APIs are secured with basic HTTP authentication and authorization. 
-Test case document is attached in the the project (/resources/Test Case Document.doc) with screenshots of the results for each API. Initial set 
+Test case document is attached in the the project (Test Case Document.doc) with screenshots of the results for each API. Initial set 
 up and entry to each API is logged.
 
 This project contains two APIs .
